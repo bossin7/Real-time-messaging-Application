@@ -2,7 +2,8 @@
 Concurrent and distributed systems project
 1. Clone this repository
 ```shell
-$ git clone git@github.com:jorgeacetozi/ebook-chat-app-spring-websocket-cassandra-redis-rabbitmq.git
+$ git clone github.com/bossin7/Real-time-messaging-Application.git
+https://github.com/bossin7/Real-time-messaging-Application.git
 ```
 2. Setup the dependencies (Cassandra, Redis, MySQL and RabbitMQ with STOMP support)
 
